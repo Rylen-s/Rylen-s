@@ -60,6 +60,17 @@
   <br/><br/><br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br>
+<div align=center>
+
+  <img width="420" height="165" src="https://streak-stats.demolab.com/?user=kennethcxv&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+
+  </div>
+
+
 <br/><br/>
 <br/>
 
